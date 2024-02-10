@@ -1,0 +1,19 @@
+--> Plataforma de Cursos <--
+--> Modo de uso
+
+Cadastrar Aluno:
+Para editar um aluno é necessário adicionar o seu ID e sendo ele existente pode mudar as outras informações
+Para apagar um aluno apenas selecione o seu nome na Lista ao lado e clique em deletar
+
+Adicionar cursos
+A data deve ser inserida no formato dd/mm/yyyy
+Para editar um curso é necessário adicionar o seu ID e sendo ele existente pode mudar as outras informações
+Para apagar um curso apenas selecione o seu nome na Lista ao lado e clique em deletar
+
+Matricular aluno
+Ao selecionar o ID do aluno seu nome já aparece automaticamente, o mesmo acontece ao selecionar o ID do curso
+A data deve ser no formato dd/mm/yyyy
+Para pesquisar deve selecionar o ID do aluno e assim clicar em pesquisar
+Para deletar uma matrícula deve inserir o ID da matrícula
+Para editar deve inserir o ID da matrícula
+

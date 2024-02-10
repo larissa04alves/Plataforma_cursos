@@ -1,0 +1,12 @@
+services:
+  postgres:
+    image: postgres:latest
+    container_name: plataforma_cursos
+    ports:
+      - '3333:5432'
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: admin
+      POSTGRES_DB: Plataforma_cursos
+    volumes:
+      - ./POSTGRES_DB:/var/lib/postgresql/data
